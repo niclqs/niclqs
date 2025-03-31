@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/niclqs/niclqs/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/niclqs/niclqs/3313c29e88515ebbc61a7b76137a349f6b883683/snake.svg" alt="Snake animation" />
 
 ###
