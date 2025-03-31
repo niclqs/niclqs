@@ -36,11 +36,3 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/niclqs/niclqs/3313c29e88515ebbc61a7b76137a349f6b883683/snake.svg" alt="Snake animation" />
-
-###
