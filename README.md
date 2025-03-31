@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.istockphoto.com/id/871605134/vector/simple-n-letter-sign-vector-design-minimalistic-icon-icon.jpg?s=612x612&w=0&k=20&c=QD0jWNBmAVCCQ_ysBZW87m050NRN1M-NCuVTXG6__yw="  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
