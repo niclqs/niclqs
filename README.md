@@ -9,7 +9,7 @@ export default class Attributes {
    */
   static life(): [string[], number] {
     const languages = ['German', 'English', 'Russian'];
-    const age = 22;
+    const age = 23;
     return [languages, age];
   }
 
